@@ -6,15 +6,5 @@
 
 ### ✨ [Demo](http://bagreaereo.ml)
 
-## Author
-
-👤 **Gustavo Alves**
-
-* Website: http://gustavoalves.ml
-* Github: [@Decompilationist](https://github.com/Decompilationist)
-
-## Show your support
-
-Give a ⭐️ if this project helped you!
 
 
